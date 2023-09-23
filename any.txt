@@ -2,7 +2,9 @@ A conflicting Line
 A second conflicting line.
 
 I am here -Kaydee
-Another Change - Second line (I made changes in this line.)  (Another change.) 
+
+ANOTHER CHANGE - Second line (I made changes in this line.)  (Another change.) 
+
 Third Practice Request
 Fourth line 
 Fifth line
