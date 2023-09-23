@@ -1,0 +1,2 @@
+A conflicting Line
+A second conflicting line.
